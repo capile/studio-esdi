@@ -16,9 +16,9 @@ A pós-graduação da Esdi oferece o curso de mestrado em Design, com ingresso a
 
 A Esdi está instalada em um conjunto de prédios na Lapa, centro do Rio, onde possui, além de salas de aula, oficinas de madeira, metal, prototipagem rápida, gráfica, laboratórios de fotografia e informática, biblioteca especializada e salas de pesquisa.
 
-Diretoria: <diretoria@esdi.uerj.br>
-Rodolfo Capeto, diretor
+Diretoria: <diretoria@esdi.uerj.br>   
+Rodolfo Capeto, diretor   
 Luiz Antonio de Saboya, vice-diretor
 
-Secretaria: <secretaria@esdi.uerj.br>
+Secretaria: <secretaria@esdi.uerj.br>   
 Anna Rosenblum, chefe de secretaria 
