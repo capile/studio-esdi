@@ -4,6 +4,8 @@ title: Esdi/Uerj - Escola Superior de Desenho Industrial
 -->
 # Esdi/Uerj - Escola Superior de Desenho Industrial
 
+## Título de nível 2
+
 A Esdi é uma unidade da Universidade do Estado do Rio de Janeiro, oferecendo o curso de graduação em Desenho Industrial e o mestrado em Design, além de desenvolver atividades de pesquisa e extensão.
 
 O design, ou desenho industrial, é a área do conhecimento que trata do planejamento, da programação e do projeto dos objetos com os quais o homem lida em seu cotidiano, assim como dos ambientes em que mantém seu espaço de vida.
