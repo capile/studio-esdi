@@ -1,5 +1,6 @@
 <div class="nav" markdown=1>
-*   [Introdução](/)
+*   [A ESDI](/sobre)
+    *   [História](/historia)
 *   [Notícias](/noticias)
 *   [Graduação](/graduacao)
     *    [Vestibular](/graduacao/vestibular)
