@@ -8,6 +8,9 @@
 *   [Portifólio](/portifolio)
 *   [Intercâmbio](/intercambio)
 *   [Serviços](/servicos)
+    *    [Esdi Jr](/graduacao/esdijr)
+    *    [Prototipagem rápida](/graduacao/prototipagem)
+    *    [Biomimética](/graduacao/biomimética)
 *   [Contato](/contato)
 </div>
 
