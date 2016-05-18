@@ -2,7 +2,7 @@
 ---
 title: Graduação
 -->
-# Graduação
+# Objetivos
 
 O principal objetivo da graduação da ESDI é proporcionar ao estudante um amplo conhecimento acerca dos meios, dos materiais e da linguagem do design. 
 Paralelamente a essa vertente instrumentadora, a Escola Superior de Desenho Industrial desenvolve e incentiva, de forma intensa, a reflexão sobre a atividade.
