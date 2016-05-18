@@ -4,10 +4,10 @@
     *    [Currículo](/graduacao/curriculo)
     *    [Professores](/graduacao/professores)
     *    [Vestibular](/graduacao/vestibular)
-*   [Pós-graduação](/)
-*   [Portifólio](/)
-*   [Intercâmbio](/)
-*   [Serviços](/)
-*   [Contato](/)
+*   [Pós-graduação](/http://ppd.esdi.uerj.br)
+*   [Portifólio](/portifolio)
+*   [Intercâmbio](/intercambio)
+*   [Serviços](/servicos)
+*   [Contato](/contato)
 </div>
 
