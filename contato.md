@@ -12,11 +12,20 @@ secretaria@esdi.uerj.br
 ###Diretoria
 diretoria@esdi.uerj.br
 
-###coordenação de ensino
+###Coordenação de Curso (Desenho Industrial)
+Prof. Washington Dias Lessa - washington.lessa@gmail.com
 
-###coordenação de pesquisa
+###Coordenação de Curso (Arquitetura e Urbanismo)
+Prof. Patricia Drach - patricia.drach@gmail.com
 
-###coordenação de extensão
+###Coordenação de Pesquisa
+Prof. Fernando Secomandi - fsecomandi@esdi.uerj.br
+
+###Coordenação de Extensão
+Prof. Daniel Portugal - dportuga@gmail.com
+
+###Comissão de Intercâmbio
+rof. Daniel Portugal, Prof. Luiz Vidal, Prof. Marcos Martins, Prof. Noni Geiger, Prof. Wilder Ferrer, Prof. Zoy Anastassakis
 
 ###Biblioteca
 biblioteca@esdi.uerj.br
