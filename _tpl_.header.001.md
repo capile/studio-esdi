@@ -2,7 +2,7 @@
 *   [Sobre](/sobre)
 *   [Sinal](/sinal)
 *   [Biblioteca](/biblioteca)
-*   [Extensão](/extensão)
+*   [Extensão](/extensao)
 *   [Calendário Acadêmico](/calendarioacademico)
 </div>
 
