@@ -4,6 +4,8 @@
     *    [Currículo](/graduacao/curriculo)
     *    [Professores](/graduacao/professores)
     *    [Vestibular](/graduacao/vestibular)
+    *    [Marcos](/graduacao/marcos) 
+    *    [Marcos2] (/gradiacao/marcos)
 *   [Pós-graduação](http://ppd.esdi.uerj.br)
 *   [Portifólio](/portifolio)
 *   [Intercâmbio](/intercambio)
