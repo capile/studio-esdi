@@ -1,4 +1,5 @@
 <div class="nav" markdown=1>
+*   [Home](/home)
 *   [Graduação](/graduacao)
     *    [Objetivos](/graduacao/objetivos)
     *    [Currículo](/graduacao/curriculo)
