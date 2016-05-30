@@ -1,5 +1,5 @@
 <div class="nav" markdown=1>
-*   <a href="https://esdi.capile.studio/"><img src="icone-home.png" height="100"></a>
+*   <a href="https://esdi.capile.studio/"><img src="icone-home.png" height="20"></a>
 *   [Graduação](/graduacao)
     *    [Objetivos](/graduacao/objetivos)
     *    [Currículo](/graduacao/curriculo)
