@@ -1,5 +1,5 @@
 <div class="nav" markdown=1>
-*   [Home](/home)
+*   [Home](https://esdi.capile.studio/)
 *   [Graduação](/graduacao)
     *    [Objetivos](/graduacao/objetivos)
     *    [Currículo](/graduacao/curriculo)
