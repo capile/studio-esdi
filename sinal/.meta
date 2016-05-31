@@ -1,0 +1,6 @@
+---
+title: sinal - Esdi
+layout: sinal
+slots: { body: ~ }
+style: /_/css/sinal.less
+script: ~
