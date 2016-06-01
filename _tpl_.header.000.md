@@ -1,5 +1,6 @@
 <div class="logo" markdown=1>
 *   <a href="https://esdi.capile.studio/"><img src="icone-home.png" height="50"></a>
+</div>
 
 <div class="nav" markdown=2>
 *   [Graduação](/graduacao)
