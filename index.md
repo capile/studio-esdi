@@ -2,7 +2,6 @@
 ---
 title: Esdi/Uerj - Escola Superior de Desenho Industrial
 -->
-<div class="conteudo">
 # Esdi/Uerj 
 
 ## Escola Superior de Desenho Industrial
@@ -15,9 +14,7 @@ Marcos Martins, vice-diretor
 
 Secretaria: <secretaria@esdi.uerj.br>
 Anna Rosenblum
-</div>
 
-<div id="rodape">
 ## Sinal
 
 ## Portifólio
@@ -25,4 +22,4 @@ Anna Rosenblum
 ## Biblioteca
 
 ## Incubadora
-</div>
+
