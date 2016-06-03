@@ -1,19 +1,19 @@
-@hover: #f80;
-@link: #039;
-@visited: #309;
+@hover: #666;
+@link: #000;
+@visited: #333;
 @branco:#ffffff;
 @texto: #444;
 
-html,body{font: 16px/1.5em 'Roboto', 'Roboto', sans-serif;margin:0;padding:0;color:@texto;}
+html,body{font: 14px/1.5em 'Helvetica Neue', 'HelveticaNeue', 'Helvetica', 'Arial', sans-serif;margin:0;padding:0;color:@texto;}
 html{background:@branco;}
 
 #body {
 	width:80%;
-	max-width: 31em;
-	margin: 0 auto;
+	max-width: 40em;
+	margin: 2em auto;
 }
-img { border:none; max-width: 31em; }
-h1{font-size:1.5 em;line-height:1.2em; margin:-0.225em 0 0 0;padding: 0       0 0.225em 0;color:@texto;font-weight:bold;font-style:normal;}
+img { border:none; max-width: 40em; }
+h1{font-size:  3em;line-height:1.2em; margin:-0.225em 0 0 0;padding:  0       0 0.225em 0;color:#dc1418;font-weight:bold;font-style:normal;}
 h2{font-size:1.5em;line-height:1.5em;  margin:  -0.2em 0 0 0;padding: 0       0 0.2em   0;color:@texto;font-weight:bold;}
 h3{font-size:1em;  line-height:1.5em;  margin:             0;padding:           1em 0 0 0;color:@texto;font-weight:bold;}
 h4{font-size:1em;  line-height:1.5em;  margin:             0;padding: 0.375em 0 0.625em 0;color:@texto;font-weight:normal;}
@@ -21,9 +21,14 @@ h4, p { padding:0.75em 0 0.75em 0;margin:0; }
 li { margin:0.75em 0 0.75em 0;padding:0; }
 ul, ol {margin:0;padding:0 1em;}
 img{border:none;}
-
-a:visited{color:@visited;text-decoration:none;}
-a:link{color:@link;text-decoration:none;}
+h1 img { position: absolute;z-index:-1;left:0;top:0; }
+h1 {padding:0 0 0 190px;margin:2em 0 0 0;position:relative;font-size:32px;line-height:45px;}
+blockquote {
+	line-height:1em;font-size:0.85em;font-weight:bold;color:#555;padding: 0 0 0 145px;margin:0 0 3em 0;
+}
+hr {border: 0; height: 1px; background: #333;}
+a:visited{color:@visited;text-decoration:underline;}
+a:link{color:@link;text-decoration:underline;}
 a:hover,a:active{color:@hover;text-decoration:underline}
 
 .nav ul { list-style:none; padding:0 }
