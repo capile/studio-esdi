@@ -3,7 +3,7 @@
 title: sinal 501 - Esdi
 style: /_/css/sinal-novo.less
 -->
-<div style="background:url(img/bkg-sinal.png) no-repeat;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;" markdown=1>
+<div style="background:url(img/bkg-sinal.png) no-repeat;-webkit-background-size: 100% auto;-moz-background-size: 100% auto;-o-background-size: 100% auto;background-size: 100% auto;" markdown=1>
 
 <div style="width:40em;max-width: 40em;margin: 0 auto;" markdown=1>
 
