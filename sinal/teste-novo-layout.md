@@ -7,11 +7,18 @@ style: /_/css/sinal-novo.less
 
 <div style="width:40em;max-width: 40em;margin: 0 auto;" markdown=1>
 
-<div style="line-height:1em;font-size:0.85em;font-weight:bold;color:#555;padding: 0 0 0 145px;margin:0 0 3em 0;" markdown="1">
+
+<table style="width:100%" celladding="0" cellspacing="0">
+<tr>
+<td class="numero" style="width:10em" markdown=1>
+
 # 501
+
+</td>
+<td style="width:30em" markdown=1>
+
 24 a 30.06.2016   Rio de Janeiro   
 Boletim eletrônico da Escola Superior de Desenho Industrial
-</div>
 
 <div class="sumario" markdown=1>
   * [Seminário Estudos da imagem nas redes sociais](#t1)
@@ -102,6 +109,8 @@ Defendemos o total cumprimento dos direitos trabalhistas daqueles profissionais 
 O Sinal — boletim eletrônico da Escola Superior de Desenho Industrial — está atualizando sua lista de assinaturas. Caso conheça alguém com interesse em se cadastrar, envie um email para comunicacao.esdilab@gmail.com com o título “Cadastramento Sinal”. 
 
 Para colaborar com o Sinal, envie mensagem para: comunicacao.esdilab@gmail.com com o título “Divulgação Sinal”.
+
+</td></tr></table>
 
 </div>
 </div>
