@@ -11,6 +11,7 @@ style: /_/css/sinal-novo.less
 Boletim eletrônico da Escola Superior de Desenho Industrial
 </div>
 
+<div class="sumario" markdown=1>
   * [Seminário Estudos da imagem nas redes sociais](#t1)
   * [Seminário Ensino de Design em Portugal ](#t2)
   * [Roberto Verschleisser ministra palestra na abertura de exposição sobre biomimética](#t3)
@@ -20,7 +21,7 @@ Boletim eletrônico da Escola Superior de Desenho Industrial
   * [Fórum Economia Limpa](#t7)
   * [Informe da Biblioteca da Esdi ](#t8)
   * [Nota de repúdio à demissão em massa dos trabalhadores terceirizados](#t9)
-
+</div>
 
 ### NA ESDI
 
