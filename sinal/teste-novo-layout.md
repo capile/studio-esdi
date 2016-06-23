@@ -3,9 +3,11 @@
 title: sinal 501 - Esdi
 style: /_/css/sinal-novo.less
 -->
+<div style="background:url(img/bkg-sinal.png) no-repeat;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;" markdown=1>
+
 <div style="width:40em;max-width: 40em;margin: 0 auto;" markdown=1>
 
-<div style="background:url(img/selo.png) no-repeat;line-height:1em;font-size:0.85em;font-weight:bold;color:#555;padding: 0 0 0 145px;margin:0 0 3em 0;" markdown="1">
+<div style="line-height:1em;font-size:0.85em;font-weight:bold;color:#555;padding: 0 0 0 145px;margin:0 0 3em 0;" markdown="1">
 # 501
 24 a 30.06.2016   Rio de Janeiro   
 Boletim eletrônico da Escola Superior de Desenho Industrial
@@ -102,5 +104,5 @@ O Sinal — boletim eletrônico da Escola Superior de Desenho Industrial — est
 Para colaborar com o Sinal, envie mensagem para: comunicacao.esdilab@gmail.com com o título “Divulgação Sinal”.
 
 </div>
-
-<img src="img/selo.png" style="display:none;opacity:0;width:0;height:0;" />
+</div>
+<img src="img/bkg-sinal.png" style="display:none;opacity:0;width:0;height:0;" />
