@@ -11,9 +11,6 @@ style: /_/css/sinal-novo.less
 Boletim eletrônico da Escola Superior de Desenho Industrial
 </div>
 
-
-### Sumário
-
   * [Seminário Estudos da imagem nas redes sociais](#t1)
   * [Seminário Ensino de Design em Portugal ](#t2)
   * [Roberto Verschleisser ministra palestra na abertura de exposição sobre biomimética](#t3)
