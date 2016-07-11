@@ -9,7 +9,7 @@
     *    [Técnico/Administrativo](/comunidade/tecnicoadministrativo)
     *    [Alunos](/comunidade/alunos)
     *    [Ex-dianos](/comunidade/exdianos) 
-    *    [Acesso restrito] (/comunidade/acessorestrito)
+    *    [Acesso restrito](/comunidade/acessorestrito)
 *   [Notícias](/noticias)
 *   [Agenda](/agenda)
 </div>
