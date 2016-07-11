@@ -3,11 +3,11 @@
 </div>
 
 <div class="nav" markdown=1>
-*   [Graduação](/graduacao)
-    *    [Objetivos](/graduacao/objetivos)
-    *    [Currículo](/graduacao/curriculo)
-    *    [Professores](/graduacao/professores)
-    *    [Vestibular](/graduacao/vestibular)
+*   [A Esdi](/aesdi)
+    *    [História](/aesdi/historia)
+    *    [Estrutura](/aesdi/estrutura)
+    *    [Biblioteca](/aesdi/biblioteca)
+    *    [Contato](/contato/vestibular)
 *   [Pós-graduação](http://ppd.esdi.uerj.br)
 *   [Portifólio](/portifolio)
 *   [Intercâmbio](/intercambio)
