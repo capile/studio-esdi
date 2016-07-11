@@ -3,6 +3,7 @@
 </div>
 
 <div class="nav" markdown=1>
+<li>
 *   [Comunidade](/comunidade)
     *    [Portifólio](/comunidade/portifolio)
     *    [Professores](/comunidade/professores)
@@ -34,4 +35,5 @@
     *    [Projetos](/extensao/projetos)
     *    [Desenvolvimento Tecnológico](/extensao/desenvolvimentotecnologico) 
     *    [Parceiros e convênios](extensao/perceiroseconvenios) 
+   </li>
 </div>
