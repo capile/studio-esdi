@@ -3,6 +3,18 @@
 </div>
 
 <div class="nav" markdown=1>
+*   [Comunidade](/comunidade)
+    *    [Portifólio](/comunidade/portifolio)
+    *    [Professores](/comunidade/professores)
+    *    [Técnico/Administrativo](/comunidade/tecnicoadministrativo)
+    *    [Alunos](/comunidade/alunos)
+    *    [Ex-dianos](/comunidade/exdianos) 
+    *    [Acesso restrito] (/comunidade/acessorestrito)
+*   [Notícias](/noticias)
+*   [Agenda](/agenda)
+</div>
+
+<div class="nav" markdown=1>
 *   [A Esdi](/aesdi)
     *    [História](/aesdi/historia)
     *    [Estrutura](/aesdi/estrutura)
@@ -10,7 +22,8 @@
     *    [Contato](/contato/vestibular)
 *   [Ensino](/ensino)
     *    [Graduação](/ensino/graduacao)
-    *    [Pós-Graduação](/posgraduacao)
+    *    [Pós-Graduação](/ensino/posgraduacao)
+    *    [Intercâmbio](/ensino/intercambio)
 *   [Pesquisa](/pesquisa)
      *    [PPD ESDI](/pesquisa/ppdesdi)
      *    [Laboratórios](/pesquisa/laboratorios) 
@@ -22,16 +35,4 @@
     *    [Projetos](/extensao/projetos)
     *    [Desenvolvimento Tecnológico](/extensao/desenvolvimentotecnologico) 
     *    [Parceiros e convênios](extensao/perceiroseconvenios) 
-</div>
-
-<div class="nav" markdown=1>
-*   [Comunidade](/comunidade)
-    *    [Portifólio](/comunidade/portifolio)
-    *    [Professores](/comunidade/professores)
-    *    [Técnico/Administrativo](/comunidade/tecnicoadministrativo)
-    *    [Alunos](/comunidade/alunos)
-    *    [Ex-dianos](/comunidade/exdianos) 
-    *    [Acesso restrito] (/comunidade/acessorestrito)
-*   [Notícias](/noticias)
-*   [Agenda](/agenda)
 </div>
