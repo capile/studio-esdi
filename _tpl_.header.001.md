@@ -1,5 +1,5 @@
 <div class="nav" markdown=1>
-*   [Sobre](/sobre)
+*   [A Esdi](/aesdi)
 *   [Sinal](/sinal)
 *   [Biblioteca](/biblioteca)
 *   [Extensão](/extensao)
