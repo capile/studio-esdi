@@ -1,7 +1,6 @@
-li {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    width: 150px;
-    }
-
+ul#menu1 { 
+margin: 0; /* retira o recuo para alguns browsers */ (*)
+padding:0; /* retira o recuo para outros browsers */ (*)
+list-style-type: none; /* retira o marcador de listas*/ 
+background-color: #fade8b; /* cor do fundo */ 
+}
