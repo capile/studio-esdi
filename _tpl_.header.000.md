@@ -29,7 +29,6 @@
      *    [Laboratórios](/pesquisa/laboratorios) 
      *    [Pesquisadores](pesquisa/pesquisadores)
      *    [Publicações](pesquisa/publicacoes)
-*   [Intercâmbio](pesquisa/intercambio)
 *   [Extensão](/extensao)
     *    [Cursos](/extensao/cursos)
     *    [Projetos](/extensao/projetos)
