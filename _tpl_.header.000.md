@@ -2,8 +2,7 @@
 <a href="https://esdi.capile.studio/"><img src="icone-home.png" alt="Início" height="50"></a>
 </div>
 
-<div class="nav" markdown=1>
-<li>
+<div class="li" markdown=1>
 *   [Comunidade](/comunidade)
     *    [Portifólio](/comunidade/portifolio)
     *    [Professores](/comunidade/professores)
@@ -35,5 +34,4 @@
     *    [Projetos](/extensao/projetos)
     *    [Desenvolvimento Tecnológico](/extensao/desenvolvimentotecnologico) 
     *    [Parceiros e convênios](extensao/perceiroseconvenios) 
-   </li>
 </div>
