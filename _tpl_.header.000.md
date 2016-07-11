@@ -14,7 +14,7 @@
 *   [Agenda](/agenda)
 </div>
 
-<div class="nav" markdown=1>
+<div class="li" markdown=1>
 *   [A Esdi](/aesdi)
     *    [História](/aesdi/historia)
     *    [Estrutura](/aesdi/estrutura)
